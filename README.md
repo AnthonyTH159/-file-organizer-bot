@@ -15,6 +15,7 @@
 ### Demo (before / after)
 ![Before](Screenshots/before.png)
 ![After](Screenshots/after.png)
+### Bot working
 ![Gif](Screenshots/cleaner_bot.gif)
 
 ### How to Run

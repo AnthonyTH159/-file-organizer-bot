@@ -12,10 +12,11 @@
 - Dry-run mode to preview changes
 - Command-line arguments for easy use
 
-### Demo (antes / depois)
-
-![Before](screenshots/before.png)
-![After](screenshots/after.png)
+### Demo (before / after)
+![Before](Screenshots/before.png)
+![After](Screenshots/after.png)
+### (script organizing files)
+<image-card alt="Demo do File Organizer" src="https://github.com/AnthonyTH159/-file-organizer-bot/blob/main/Screenshots/Cleaner%20Bot.gif?raw=true" ></image-card>
 
 ### How to Run
 1. Clone the repo:

@@ -21,5 +21,5 @@
 ### How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/AnthonyTH159/-file-organizer-bot.git
+   git clone https://github.com/AnthonyTH159/file-organizer-bot.git
    cd file-organizer-bot
